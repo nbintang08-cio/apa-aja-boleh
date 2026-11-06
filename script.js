@@ -163,7 +163,7 @@ const MEMORI = [  // taruh foto di folder foto/
   { src: 'foto/6.jpg', t: 'OTW Kerja', q: 'katanya lagi hujan jadi pake jas ujan, ngga tau bener ngga tau ngga juga.' }
 ];
 const LAGU = [    // taruh file lagu di folder music/
-  { t: 'Monokrom', a: 'Tulus', src: 'music/monokrom.mp3' },
+  { t: 'Monokrom', a: 'Tulus', src: 'music/Monokrom.mp3' },
   { t: 'Kamu Adalah Perempuan Paling Cantik di Negeri Indonesia', a: 'Dewa 19', src: 'music/perempuan-paling-cantik.mp3' },
   { t: 'Teh Hijau', a: 'Tulus', src:'music/Teh-Hijau.mp3'},
   { t: 'Cincin', a: 'Hindia', src:'music/Cincin.mp3'},
